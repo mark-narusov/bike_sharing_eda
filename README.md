@@ -1,7 +1,7 @@
 # bike_sharing_eda
-Capstone project of the Google Data Analytics Professional Certificate
+Capstone project of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-Please use hyperlinks within [the main notebook](https://github.com/mark-narusov/bike_sharing_eda/blob/main/bike_sharing_eda_final.ipynb) to open interactive Plotly plots — technical issues prevented me from embedding them directly.
+Please use [this link](https://nbviewer.org/github/mark-narusov/bike_sharing_eda/blob/main/bike_sharing_eda_final.ipynb) to view the project — interactive plots and table of contents don't work when accessing the .ipynb file directly.
 
 Links to the plots are duplicated here just in case:  
 
